@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\Methods\Methods\Methods\bin\Debug\Methods.exe.config
+C:\GitHub Project\C#\Methods\Methods\Methods\bin\Debug\Methods.exe
+C:\GitHub Project\C#\Methods\Methods\Methods\bin\Debug\Methods.pdb
+C:\GitHub Project\C#\Methods\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\Methods\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\Methods\Methods\Methods\obj\Debug\Methods.exe
+C:\GitHub Project\C#\Methods\Methods\Methods\obj\Debug\Methods.pdb
